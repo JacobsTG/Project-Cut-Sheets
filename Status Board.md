@@ -29,6 +29,6 @@ Future Status Board Widgets:
 
 ### Project Needs
 - [Raspberry Pi Rev B Kit (~$75)](https://www.amazon.com/CanaKit-Raspberry-Complete-Starter-Kit/dp/B01C6Q2GSY/ref=sr_1_6?s=pc&ie=UTF8&qid=1464841433&sr=1-6&keywords=raspberry+pi+3)
-- [50"-55" TV ($400)](http://www.walmart.com/ip/Sceptre-X505BV-F-50-1080p-60Hz-LED-HDTV/27678567)
+- [50"-55" 1080p TV ($400)](http://www.walmart.com/ip/Sceptre-X505BV-F-50-1080p-60Hz-LED-HDTV/27678567)
 - [TV Wall mount bracket ($35)](http://www.walmart.com/ip/Tilting-TV-Wall-Mount-for-24-84-TVs-with-HDMI-Cable/45162254?action=product_interest&action_type=title&item_id=45162254&placement_id=irs-2-m2&strategy=PWVUB&visitor_id&category=&client_guid=de31638b-1508-4bbf-8088-710f96184586&customer_id_enc&config_id=2&parent_item_id=45162255&parent_anchor_item_id=45162255&guid=0e197994-bd19-408f-8e9e-1fe01f932dff&bucket_id=irsbucketdefault&beacon_version=1.0.1&findingMethod=p13n)
 - Wireless Internet Access ($0)
